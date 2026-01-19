@@ -1,5 +1,4 @@
 # Tax-Wheel
-taxwheel
 
 ![TAXWHEEL - ROADMAP](https://github.com/user-attachments/assets/0ca6624c-c764-4347-bcc5-86817c76e90a)
 
